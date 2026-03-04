@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  background-color: #ffffff;
+  color: #db0a0a;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:hover {
+  color: #9b1ba0;
+}
+
+/*
+GLOBAL (whole website)
+This file affects everything in your app.
+*/
